@@ -12,7 +12,7 @@ djangorestframework = "*"
 djangorestframework-jwt = "*"
 django-cors-headers = "*"
 asgiref = "*"
-django-heroku==0.3.1
+django-heroku = "*"
 gunicorn = "*"
 PyJWT = "*"
 pytz = "*"
